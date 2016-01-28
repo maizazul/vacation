@@ -1,0 +1,39 @@
+.jumbotron {
+  background-image: url("http://www.hellotravel.com/sites/default/files/imagecache/640X400/large_vietnam.jpg");
+  /*background-position: 0% 25%;*/
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/*.container {
+  padding-left: 20px;
+  padding-right: 20px;
+}*/
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 80px;
+
+}
+h2 {
+  text-align: center;
+}
+
+.jumbotron p {
+  color: white;
+  text-align: center;
+}
+
+.jumbotron ul {
+  color: white;
+  text-align: center;
+  list-style-position: inside;
+}
+img {
+  max-width:100%;
+  height:auto;
+}
+
+h3 {
+  text-align: center;
+}
